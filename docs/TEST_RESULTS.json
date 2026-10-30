@@ -1,0 +1,15 @@
+{
+  "updater_binary_exists": true,
+  "updater_binary_size": 267264,
+  "core_script_lines": 26426,
+  "core_script_size": 1294423,
+  "dep_nhcolor": true,
+  "dep_hashsum": true,
+  "dep_7za": true,
+  "dep_wget": true,
+  "dep_ReduceMemory": true,
+  "dep_EcMenu": true,
+  "nhcolor_functional": true,
+  "archive_decrypt_test": true,
+  "broken_labels_detected": 1
+}

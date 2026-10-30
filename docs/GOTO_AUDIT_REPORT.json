@@ -1,0 +1,16 @@
+{
+  "total_lines": 26426,
+  "total_labels": 1122,
+  "total_gotos": 3178,
+  "total_broken_jumps": 1,
+  "unique_missing_labels": [
+    "jumps"
+  ],
+  "broken_details": [
+    {
+      "line": 26328,
+      "raw_statement": ":: Added by Antigravity REA Engine to eliminate 38 dead/broken goto jumps",
+      "target": "jumps"
+    }
+  ]
+}

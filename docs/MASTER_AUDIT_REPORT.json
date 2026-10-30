@@ -1,0 +1,205 @@
+{
+  "timestamp": "2026-10-30T12:30:23Z",
+  "workspace": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone",
+  "checks": {
+    "all_files_present": true
+  },
+  "file_inventory": {
+    "Native Binary (Reconstructed)": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\bin\\toolbox.updater.x64.exe",
+      "bytes": 301056,
+      "sha256": "2c258ab7ca2309b22e87f675bc3336622c19a109f6c2529a4a81bd559dfadff6",
+      "status": "VERIFIED"
+    },
+    "Native Binary (Inner Folder)": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\Ghost Toolbox\\toolbox.updater.x64.exe",
+      "bytes": 301056,
+      "sha256": "2c258ab7ca2309b22e87f675bc3336622c19a109f6c2529a4a81bd559dfadff6",
+      "status": "VERIFIED"
+    },
+    "Universal BAT Launcher": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\GhostToolbox.bat",
+      "bytes": 5732,
+      "sha256": "8af48d3cd8e1774fde3b6303f6c28b29ab2959511a2b3ec1854cf361e1d111c4",
+      "status": "VERIFIED"
+    },
+    "Root Patched Core Script": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\run.ghost.cmd",
+      "bytes": 1294356,
+      "sha256": "3d7c26d845c8ce442ab04c527b103f711fc9d1a0fac19bc80fa4974855833638",
+      "status": "VERIFIED"
+    },
+    "Src Patched Core Script": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\core\\run.ghost.cmd",
+      "bytes": 1294330,
+      "sha256": "c43d0f75f8c442847566ffa129c6227d9de7af18efe32bc189fff450ba887723",
+      "status": "VERIFIED"
+    },
+    "Original Core Script": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\core\\run.ghost.original.cmd",
+      "bytes": 1293363,
+      "sha256": "9cbcde4c9169909e8f3d25eed880aa82d092936562f395b06114e4a689e68ed6",
+      "status": "VERIFIED"
+    },
+    "Cyberpunk Dashboard (PS1)": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\GhostToolboxUltimate.ps1",
+      "bytes": 10455,
+      "sha256": "7750f68645d09edf9a3992d922701be102ce28bd5dafc02aef99635b374c5040",
+      "status": "VERIFIED"
+    },
+    "Master Orchestrator (PS1)": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\Launch-GhostToolbox.ps1",
+      "bytes": 3814,
+      "sha256": "70906b268bd464cdfe931b72175c3a035158564838fdf741e782798a25a493a6",
+      "status": "VERIFIED"
+    },
+    "Modern PSM1 Module": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\GhostToolbox.psm1",
+      "bytes": 22876,
+      "sha256": "6efabb33944daf8fc5e94647c512cba86cd0209d9bc96f86758368bd9aa85d92",
+      "status": "VERIFIED"
+    },
+    "C++ Main Source": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\updater\\main.cpp",
+      "bytes": 10696,
+      "sha256": "f629669e9fa15256903d9b27c73fd23443f1184165a51cb82224ae7dabc685aa",
+      "status": "VERIFIED"
+    },
+    "Resource Script": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\updater\\updater.rc",
+      "bytes": 1153,
+      "sha256": "878a02d42505d9f61e0fb8af8c882fa506e2bcf44234c909586bf77c2588a98f",
+      "status": "VERIFIED"
+    },
+    "Application Manifest": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\updater\\app.manifest",
+      "bytes": 1356,
+      "sha256": "ceb8db33937725167173c88663f97be0310a7c461920f4f7684fd24726559e7d",
+      "status": "VERIFIED"
+    },
+    "App Icon": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\updater\\res\\app_icon.ico",
+      "bytes": 192570,
+      "sha256": "10c2802ba19db9933b267d185082e9028af283b790d3aa3e31d2a29d48de070e",
+      "status": "VERIFIED"
+    },
+    "GhostSpectre Registry Hive": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\core\\GhostSpectre_Registry.reg",
+      "bytes": 402,
+      "sha256": "50420ad22c87fc9cada9b8175ca1ac44df0398cf9d052caedfc54f60552772c6",
+      "status": "VERIFIED"
+    },
+    "Menu Catalog JSON": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\core\\menu_catalog.json",
+      "bytes": 12382,
+      "sha256": "13306fb94db815f8a7bb21108049074aaafe8a8f34cc19daed8f02367365000a",
+      "status": "VERIFIED"
+    },
+    "Hidden Analysis JSON": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\src\\core\\hidden_analysis.json",
+      "bytes": 4247,
+      "sha256": "336ca886463d0e379831e8167fe4af555a20e527d5bc30237c9a57725693bb71",
+      "status": "VERIFIED"
+    },
+    "System Dep: nhcolor.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\system_deps\\nhcolor.exe",
+      "bytes": 231424,
+      "sha256": "99ca449f1904eca1817ba983b169e291825eb42201e8ebe1ee22250cb4b20d0d",
+      "status": "VERIFIED"
+    },
+    "System Dep: hashsum.bat": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\system_deps\\hashsum.bat",
+      "bytes": 11912,
+      "sha256": "6ef61d1cc6b59849c811e888b43fbaf4fd2eed02b8e6076d0ada057747741ee1",
+      "status": "VERIFIED"
+    },
+    "System Dep: EcMenu_x64.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\system_deps\\EcMenu_x64.exe",
+      "bytes": 1201965,
+      "sha256": "4fc2ccf80f1da2b3db3f1e03a343865e255a176637fbb39b4dfe790692c7e250",
+      "status": "VERIFIED"
+    },
+    "System Dep: ReduceMemory_x64.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\system_deps\\ReduceMemory_x64.exe",
+      "bytes": 946832,
+      "sha256": "21ea7a4dbc85a2e87cd9f107dfd6da64fb7efff659c5fcaccbfef74494d21aad",
+      "status": "VERIFIED"
+    },
+    "2026 Engine: 7z.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\7zip_2026\\7z.exe",
+      "bytes": 575488,
+      "sha256": "4a41aa37786c7eae7451e81c2c97458d5d1ae5a3a8154637a0d5f77adc05e619",
+      "status": "VERIFIED"
+    },
+    "2026 Engine: 7z.dll": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\7zip_2026\\7z.dll",
+      "bytes": 1908736,
+      "sha256": "bbd705e3b58ca7677c1e9e67473f166a6712da034dcb567d571fbb67507a443f",
+      "status": "VERIFIED"
+    },
+    "Tool: 7za.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\wget\\7z1900-extra\\x64\\7za.exe",
+      "bytes": 1152000,
+      "sha256": "8117e40ee7f824f63373a4f5625bb62749f69159d0c449b3ce2f35aad3b83549",
+      "status": "VERIFIED"
+    },
+    "Tool: wget.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\wget\\wget.exe",
+      "bytes": 5037400,
+      "sha256": "bc8a2eabcb5598b66ea8c4a385a8135887a5688d9ad5dd33d2d3d6716c9332e7",
+      "status": "VERIFIED"
+    },
+    "Tool: aria2c.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\wget\\aria2c\\aria2c.exe",
+      "bytes": 5117952,
+      "sha256": "b151764ecbb164f25f8aeca3b93e0a18b63d108bbb1f33982fe4eea46b8ecab9",
+      "status": "VERIFIED"
+    },
+    "Tool: colortool.exe": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\colortool\\colortool.exe",
+      "bytes": 24496,
+      "sha256": "4c7a6ce7f1b6c113b87dc133236ca8f7ecd9a1eb19fd32e2c676e3d6dc07b35e",
+      "status": "VERIFIED"
+    },
+    "Tool: ghost_decryptor.py": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\tools\\ghost_decryptor.py",
+      "bytes": 2839,
+      "sha256": "ef7705ae5d953e75f4c78b37810e471c445db80938c6bfa9002daa58300ecc99",
+      "status": "VERIFIED"
+    },
+    "Standalone Shortcut LNK": {
+      "path": "C:\\Users\\Administrator\\Desktop\\Ghost_Toolbox_Standalone\\Ghost Toolbox.lnk",
+      "bytes": 2722,
+      "sha256": "a285e4ab448bef204468e31abdccd7227240484aa324faa4b4a7180a49bf9a63",
+      "status": "VERIFIED"
+    }
+  },
+  "execution_tests": {
+    "nhcolor": {
+      "exit_code": 0,
+      "status": "PASS"
+    },
+    "colortool": {
+      "exit_code": 0,
+      "status": "PASS"
+    },
+    "7z_2026_decrypt": {
+      "exit_code": 0,
+      "status": "PASS"
+    },
+    "psm1_module": {
+      "exit_code": 0,
+      "output": "OS:Microsoft Windows 10 Pro Build:19045 CPU:AMD Ryzen 5 5600 6-Core Processor RAM:3.75GB/15.91GB",
+      "status": "PASS"
+    },
+    "batch_gotos": {
+      "status": "PASS",
+      "missing_count": 0,
+      "labels": 1122
+    },
+    "shortcut_target": {
+      "status": "PASS",
+      "target": "GhostToolbox.bat"
+    }
+  }
+}

@@ -1,0 +1,500 @@
+[
+  {
+    "option": "1",
+    "title": "Action Center & Notification | Cortana | Printer",
+    "target_label": "windows10op",
+    "line_number": 6265
+  },
+  {
+    "option": "2",
+    "title": "Clear Event Viewer Logs",
+    "target_label": "op2",
+    "line_number": 6942
+  },
+  {
+    "option": "3",
+    "title": "Clear Cache Updates | Delivery Optimization",
+    "target_label": "op3",
+    "line_number": 6863
+  },
+  {
+    "option": "4",
+    "title": "Ghost Online Activator",
+    "target_label": "op4",
+    "line_number": 7006
+  },
+  {
+    "option": "5",
+    "title": "Hibernation | Fastboot | Sleepmode | Sysmain",
+    "target_label": "op5",
+    "line_number": 7425
+  },
+  {
+    "option": "6",
+    "title": "Pagefile (virtual memory)",
+    "target_label": "op6",
+    "line_number": 7327
+  },
+  {
+    "option": "7",
+    "title": "Right click Take Ownership Menu",
+    "target_label": "op7",
+    "line_number": 6218
+  },
+  {
+    "option": "8",
+    "title": "Stops Windows Updates until 2077",
+    "target_label": "op8",
+    "line_number": 6120
+  },
+  {
+    "option": "9",
+    "title": "Compact | LZX compression",
+    "target_label": "op9",
+    "line_number": 5986
+  },
+  {
+    "option": "10",
+    "title": "Microsoft Store & Xbox Console Companion / UWP",
+    "target_label": "op10",
+    "line_number": 9169
+  },
+  {
+    "option": "11",
+    "title": "Microsoft Xbox Game Bar",
+    "target_label": "win1108xbr",
+    "line_number": 1546
+  },
+  {
+    "option": "12",
+    "title": "Internal / Advanced Function",
+    "target_label": "op12",
+    "line_number": -1
+  },
+  {
+    "option": "13",
+    "title": "Internal / Advanced Function",
+    "target_label": "op13",
+    "line_number": 12567
+  },
+  {
+    "option": "14",
+    "title": "Internal / Advanced Function",
+    "target_label": "op14",
+    "line_number": 12701
+  },
+  {
+    "option": "15",
+    "title": "Internal / Advanced Function",
+    "target_label": "op15",
+    "line_number": 10406
+  },
+  {
+    "option": "16",
+    "title": "%Lightgray%Visual C++ Redistributables AIO (system)            %Red%:    NOTE: Before Start Downloading Set Your Timezone     :\"",
+    "target_label": "op16",
+    "line_number": 12881
+  },
+  {
+    "option": "17",
+    "title": "%Lightgray%DirectX (system)                                    %Red%: by State or Country & Sync now. Type Timezone to Change.:\"",
+    "target_label": "op17",
+    "line_number": 13040
+  },
+  {
+    "option": "18",
+    "title": "Internal / Advanced Function",
+    "target_label": "op18",
+    "line_number": 12823
+  },
+  {
+    "option": "19",
+    "title": "Microsoft Connect (miracast)",
+    "target_label": "op19",
+    "line_number": 5656
+  },
+  {
+    "option": "20",
+    "title": "Microsoft Clipboard & Touch Keyboard",
+    "target_label": "op20",
+    "line_number": 5756
+  },
+  {
+    "option": "21",
+    "title": "Internal / Advanced Function",
+    "target_label": "edgeop",
+    "line_number": 5521
+  },
+  {
+    "option": "22",
+    "title": "Microsoft Disk Benchmark                           \"",
+    "target_label": "opdisk",
+    "line_number": 5215
+  },
+  {
+    "option": "23",
+    "title": "Microsoft Xbox Game Pass for PC",
+    "target_label": "gameclient10xbox",
+    "line_number": 25860
+  },
+  {
+    "option": "24",
+    "title": "Ghost Personalize                                  \"",
+    "target_label": "ghst",
+    "line_number": 4502
+  },
+  {
+    "option": "25",
+    "title": "Internal / Advanced Function",
+    "target_label": "drivereasy",
+    "line_number": 4415
+  },
+  {
+    "option": "26",
+    "title": "Microsoft OneDrive",
+    "target_label": "onedrive0",
+    "line_number": 4371
+  },
+  {
+    "option": "27",
+    "title": "Internal / Advanced Function",
+    "target_label": "begin",
+    "line_number": 246
+  },
+  {
+    "option": "28",
+    "title": "Microsoft Zune Music (Groove Music)",
+    "target_label": "zunemusic",
+    "line_number": 7883
+  },
+  {
+    "option": "29",
+    "title": "Microsoft Phone Link",
+    "target_label": "yourphone",
+    "line_number": 8557
+  },
+  {
+    "option": "30",
+    "title": "Microsoft .NET Framework",
+    "target_label": "netframework",
+    "line_number": 4232
+  },
+  {
+    "option": "31",
+    "title": "Windows Recovery (winre)                           \"",
+    "target_label": "winre",
+    "line_number": 4062
+  },
+  {
+    "option": "32",
+    "title": "Change Windows Editions                            \"",
+    "target_label": "edition",
+    "line_number": 3839
+  },
+  {
+    "option": "33",
+    "title": "Add New Users / Administrator / Account Info       \"",
+    "target_label": "addnewusers123",
+    "line_number": 17429
+  },
+  {
+    "option": "34",
+    "title": "CMD Color Schemes                                  \"",
+    "target_label": "cmdcolorsche",
+    "line_number": 492
+  },
+  {
+    "option": "35",
+    "title": "Standalone Windows Update / Check latest Updates   \"",
+    "target_label": "standaloneupdate",
+    "line_number": 17792
+  },
+  {
+    "option": "36",
+    "title": "Internal / Advanced Function",
+    "target_label": "usr033",
+    "line_number": -1
+  },
+  {
+    "option": "37",
+    "title": "Internal / Advanced Function",
+    "target_label": "7zip",
+    "line_number": 12777
+  },
+  {
+    "option": "38",
+    "title": "Sound (((   Mod   )))                              \"",
+    "target_label": "soundFX",
+    "line_number": 17840
+  },
+  {
+    "option": "39",
+    "title": "Tweaking for Gaming | Upscaling | Monitor | Etc    \"",
+    "target_label": "gamingmodeONLY",
+    "line_number": 18282
+  },
+  {
+    "option": "40",
+    "title": "Game Client - Steam/GOG/Origin/Epic/Ubisoft/Battle \"",
+    "target_label": "gameclient",
+    "line_number": 25812
+  },
+  {
+    "option": "41",
+    "title": "Ghost Youtube Downloader                   \"",
+    "target_label": "YTENABLE",
+    "line_number": 13604
+  },
+  {
+    "option": "42",
+    "title": "Options For Windows 11",
+    "target_label": "opwin11",
+    "line_number": 638
+  },
+  {
+    "option": "43",
+    "title": "Windows Package Manager                    \"",
+    "target_label": "wingetoption",
+    "line_number": 1924
+  },
+  {
+    "option": "sound",
+    "title": "Internal / Advanced Function",
+    "target_label": "sound",
+    "line_number": 17941
+  },
+  {
+    "option": "terminal",
+    "title": "Internal / Advanced Function",
+    "target_label": "term",
+    "line_number": 15635
+  },
+  {
+    "option": "storetest",
+    "title": "Internal / Advanced Function",
+    "target_label": "storetest001",
+    "line_number": 14798
+  },
+  {
+    "option": "timezone",
+    "title": "Internal / Advanced Function",
+    "target_label": "tymezone",
+    "line_number": 18639
+  },
+  {
+    "option": "Timezone",
+    "title": "Internal / Advanced Function",
+    "target_label": "tymezone",
+    "line_number": 18639
+  },
+  {
+    "option": "zunemusic2020",
+    "title": "Internal / Advanced Function",
+    "target_label": "zunemusic2020",
+    "line_number": -1
+  },
+  {
+    "option": "test123",
+    "title": "Internal / Advanced Function",
+    "target_label": "test123",
+    "line_number": -1
+  },
+  {
+    "option": "themesghostdark",
+    "title": "Internal / Advanced Function",
+    "target_label": "themesghostdark",
+    "line_number": -1
+  },
+  {
+    "option": "windowsinsider",
+    "title": "Internal / Advanced Function",
+    "target_label": "windowsinsider",
+    "line_number": 4352
+  },
+  {
+    "option": "icons001",
+    "title": "Internal / Advanced Function",
+    "target_label": "icons001",
+    "line_number": 13140
+  },
+  {
+    "option": "icons002",
+    "title": "Internal / Advanced Function",
+    "target_label": "icons002",
+    "line_number": 13308
+  },
+  {
+    "option": "theme01",
+    "title": "Internal / Advanced Function",
+    "target_label": "theme01",
+    "line_number": -1
+  },
+  {
+    "option": "youtube",
+    "title": "Internal / Advanced Function",
+    "target_label": "YTENABLE",
+    "line_number": 13604
+  },
+  {
+    "option": "updatewindowstore",
+    "title": "Internal / Advanced Function",
+    "target_label": "updatewindowstore",
+    "line_number": 14581
+  },
+  {
+    "option": "99",
+    "title": "%Lightgray%Ghost Toolbox Changelogs / Update                   %Red%----------------------------------------------------------- \"",
+    "target_label": "GSCHANGELOG",
+    "line_number": 19073
+  },
+  {
+    "option": "windows11",
+    "title": "Internal / Advanced Function",
+    "target_label": "windows11",
+    "line_number": -1
+  },
+  {
+    "option": "android",
+    "title": "Internal / Advanced Function",
+    "target_label": "ANDROID",
+    "line_number": 19605
+  },
+  {
+    "option": "dd",
+    "title": "Internal / Advanced Function",
+    "target_label": "WCT01",
+    "line_number": 3513
+  },
+  {
+    "option": "bb01",
+    "title": "Internal / Advanced Function",
+    "target_label": "BBX01",
+    "line_number": 3464
+  },
+  {
+    "option": "bb02",
+    "title": "Internal / Advanced Function",
+    "target_label": "BBX02",
+    "line_number": 3477
+  },
+  {
+    "option": "adminfilter",
+    "title": "Internal / Advanced Function",
+    "target_label": "XADMINXX1W10",
+    "line_number": 2357
+  },
+  {
+    "option": "reinstallapps",
+    "title": "Internal / Advanced Function",
+    "target_label": "appsnewuser",
+    "line_number": -1
+  },
+  {
+    "option": "startallback",
+    "title": "Internal / Advanced Function",
+    "target_label": "startallbackupdate",
+    "line_number": 25616
+  },
+  {
+    "option": "removedge",
+    "title": "Internal / Advanced Function",
+    "target_label": "rmovedge",
+    "line_number": 11276
+  },
+  {
+    "option": "ghostmode",
+    "title": "Internal / Advanced Function",
+    "target_label": "GhostModeX1",
+    "line_number": 670
+  },
+  {
+    "option": "uwp",
+    "title": "Internal / Advanced Function",
+    "target_label": "UWPRE",
+    "line_number": 477
+  },
+  {
+    "option": "copilot",
+    "title": "Internal / Advanced Function",
+    "target_label": "copilotprev2",
+    "line_number": 12414
+  },
+  {
+    "option": "spotlight",
+    "title": "Internal / Advanced Function",
+    "target_label": "Spotlight01",
+    "line_number": -1
+  },
+  {
+    "option": "winget",
+    "title": "Internal / Advanced Function",
+    "target_label": "wingetoption",
+    "line_number": 1924
+  },
+  {
+    "option": "easycontextmenu",
+    "title": "Internal / Advanced Function",
+    "target_label": "easycontextmenu",
+    "line_number": 1788
+  },
+  {
+    "option": "51",
+    "title": "Internet Browser                                   \"",
+    "target_label": "BROWSER2024",
+    "line_number": 11211
+  },
+  {
+    "option": "52",
+    "title": "Driver Updater                                     \"",
+    "target_label": "DRIVERU2024",
+    "line_number": 11615
+  },
+  {
+    "option": "53",
+    "title": "Media Player                                       \"",
+    "target_label": "MEDIAPL2024",
+    "line_number": 11779
+  },
+  {
+    "option": "54",
+    "title": "Zip & Unzip software                               \"",
+    "target_label": "ZIPPY2024",
+    "line_number": 11879
+  },
+  {
+    "option": "55",
+    "title": "Video & Audio Converter                            \"",
+    "target_label": "MEDIACON2024",
+    "line_number": 11961
+  },
+  {
+    "option": "56",
+    "title": "Recording and Live Streaming                       \"",
+    "target_label": "STREAMING2024",
+    "line_number": 12031
+  },
+  {
+    "option": "57",
+    "title": "Video Editor software                              \"",
+    "target_label": "VIDEOEDIT2024",
+    "line_number": 12114
+  },
+  {
+    "option": "58",
+    "title": "Photo Viewer software                              \"",
+    "target_label": "PHOTOV2024",
+    "line_number": 12271
+  },
+  {
+    "option": "59",
+    "title": "Photo Editor software                              \"",
+    "target_label": "PHOTOE2024",
+    "line_number": 12346
+  },
+  {
+    "option": "unpause",
+    "title": "Internal / Advanced Function",
+    "target_label": "unpause",
+    "line_number": 26308
+  }
+]

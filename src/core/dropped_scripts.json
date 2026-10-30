@@ -1,0 +1,112 @@
+{
+  "restart.cmd": [
+    "echo @echo off >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo TITLE Ghost Toolbox - Restart >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo cd \"%Systemdrive%\\Ghost Toolbox\" >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo timeout /t 2 >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo start toolbox.updater.x64.exe >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo del /s /q wget\\restart.cmd >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo exit >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo @echo off >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo TITLE Ghost Toolbox - Restart >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo cd \"%Systemdrive%\\Ghost Toolbox\" >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo timeout /t 2 >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo start toolbox.updater.x86.exe >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo del /s /q wget\\restart.cmd >nul >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\"",
+    "echo exit >> \"%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd\""
+  ],
+  "XGB.ps1": [
+    "Echo Get-AppxPackage *XboxGamingOverlay* ^| Remove-AppxPackage > XGB.ps1",
+    "Echo Get-AppxPackage *XboxIdentityProvider* ^| Remove-AppxPackage > XGB.ps1"
+  ],
+  "WID.ps1": [
+    "Echo Get-AppxPackage *Client.WebExperience* ^| Remove-AppxPackage > WID.ps1"
+  ],
+  "YourPhone.ps1": [
+    "Echo Get-AppxPackage *YourPhone* ^| Remove-AppxPackage > YourPhone.ps1"
+  ],
+  "yesno.vbs": [
+    "echo wscript.quit MsgBox (\"Microsoft Sticky Notes complete installed! Sign out or restart is required, do you want Sign out now?\", 4, \"GHOST MSG\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Please Enabled Adminfilter to use this apps, Click Yes to Enabled Adminfilter & restart required.\", 4, \"GHOST MSG\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found Latest version StartIsBack 2.9.20, Do you want to download now? Password ZIP: 112233\", 4, \"Latest version StartIsBack is here! for SUPERLITE SE / SE + DEF\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Please Enabled Adminfilter to use this apps, Click Yes to Enabled Adminfilter & restart required.\", 4, \"GHOST MSG\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs",
+    "echo wscript.quit MsgBox (\"Found new update %build%, you want to download standalone now? \", 4, \"Check for Updates\") > yesno.vbs"
+  ],
+  "storeremove.ps1": [
+    "Echo Get-AppxPackage -Allusers *WindowsStore* ^| Remove-AppxPackage > storeremove.ps1",
+    "Echo Get-AppxPackage -Allusers *StorePurchaseApp* ^| Remove-AppxPackage >> storeremove.ps1",
+    "Echo Get-AppxPackage -Allusers *XboxApp* ^| Remove-AppxPackage >> storeremove.ps1",
+    "::Echo Get-AppxPackage -Allusers *XboxIdentityProvider* ^| Remove-AppxPackage >> storeremove.ps1",
+    "Echo Get-AppxPackage -Allusers *GamingApp* ^| Remove-AppxPackage >> storeremove.ps1",
+    "Echo Get-AppxPackage -Allusers *GamingServices* ^| Remove-AppxPackage >> storeremove.ps1"
+  ],
+  "edge.ps1": [
+    "Echo Get-AppxPackage -Allusers *MicrosoftEdge* ^| Remove-AppxPackage > edge.ps1",
+    "echo Get-AppxPackage -Allusers *MicrosoftEdge* ^| Remove-AppxPackage > %temp%\\edge.ps1"
+  ],
+  "edge2.ps1": [
+    "Echo Get-AppxPackage *MicrosoftEdge* ^| Reset-AppxPackage > edge2.ps1",
+    "echo Get-AppxPackage *MicrosoftEdge* ^| Reset-AppxPackage > %temp%\\edge2.ps1"
+  ],
+  "input.vbs": [
+    "echo wscript.echo msgbox(WScript.Arguments(0) ^& vbCr ^& WScript.Arguments(1),0 + vbinformation,WScript.Arguments(2))>\"%temp%\\input.vbs\"",
+    "echo wscript.echo msgbox(WScript.Arguments(0) ^& vbCr ^& WScript.Arguments(1),0 + vbinformation,WScript.Arguments(2))>\"%temp%\\input.vbs\"",
+    "::echo wscript.echo msgbox(WScript.Arguments(0) ^& vbCr ^& WScript.Arguments(1),0 + vbinformation,WScript.Arguments(2))>\"%temp%\\input.vbs\"",
+    "::echo wscript.echo msgbox(WScript.Arguments(0) ^& vbCr ^& WScript.Arguments(1),0 + vbinformation,WScript.Arguments(2))>\"%temp%\\input.vbs\""
+  ],
+  "ANDROID.ps1": [
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1",
+    "Echo Get-AppxPackage *MicrosoftCorporationII.WindowsSubsystemForAndroid* ^| Remove-AppxPackage > ANDROID.ps1"
+  ],
+  "test.vbs": [
+    "echo Dim shl > %temp%\\test.vbs",
+    "echo Set shl = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo Set Shell = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo Dim strMsg,inp01,strTitle,strFlag >> %temp%\\test.vbs",
+    "echo Dim WshShell, i >> %temp%\\test.vbs",
+    "echo Set WshShell = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo        MsgBox \"wget.exe not found... by default will be installed in C:\\Ghost Toolbox\\Wget.\",64,strTitle >> %temp%\\test.vbs",
+    "echo Dim shl > %temp%\\test.vbs",
+    "echo Set shl = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo Set Shell = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo Dim strMsg,inp01,strTitle,strFlag >> %temp%\\test.vbs",
+    "echo Dim WshShell, i >> %temp%\\test.vbs",
+    "echo Set WshShell = CreateObject(\"WScript.Shell\") >> %temp%\\test.vbs",
+    "echo        MsgBox \"Ghost Toolbox only works on C:\\Ghost Toolbox\\ other drive or any location Ghost Toolbox cannot be working.\",64,strTitle >> %temp%\\test.vbs"
+  ],
+  "wsa.cmd": [
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^SettingsApp > wsa.cmd",
+    "::Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!SettingsApp > wsa.cmd",
+    "::Echo cd \"%ProgramFiles%\\Microsoft\\WSA_2301.40000.4.0_x64\" > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe^!^SettingsApp > wsa.cmd",
+    "::Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!SettingsApp > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^SettingsApp > wsa.cmd",
+    "::Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!SettingsApp > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd",
+    "Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd",
+    "::Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd",
+    "::Echo explorer.exe shell:appsFolder\\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!^^SettingsApp > wsa.cmd"
+  ]
+}

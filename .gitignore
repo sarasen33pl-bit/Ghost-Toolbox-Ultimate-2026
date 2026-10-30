@@ -1,0 +1,14 @@
+# Ghost Toolbox Standalone .gitignore
+# System & Temporary Files
+*.tmp
+*.log
+aria2_download.log
+.wget-hsts
+cookies.txt
+extracted_output/
+Temp/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/

@@ -1,0 +1,221 @@
+{
+  "archive_passwords": [
+    "runtimex86",
+    "xbox",
+    "xxx",
+    "x",
+    "phone",
+    "ico",
+    "notepad",
+    "xyz",
+    "windowsapps",
+    "YTDLP",
+    "unroot",
+    "start",
+    "root",
+    "cla",
+    "ghostytyt",
+    "1note",
+    "8wekyb3d8bbwe",
+    "dependencies",
+    "ytdlp3",
+    "paint",
+    "co",
+    "DB",
+    "storepwd",
+    "msnote",
+    "store0appx",
+    "xbr",
+    "mshub",
+    "test",
+    "ackage~31bf3856ad364e35~amd64~~.7z.001",
+    "YTX",
+    "db123",
+    "mscortanabeta",
+    "wsa2309",
+    "yourphone789",
+    "d",
+    "nh123",
+    "store1703",
+    "de",
+    "uxthemepatcher.com",
+    "tkp",
+    "xxre",
+    "cortana",
+    "store2022",
+    "gamebar",
+    "ghostwidgets",
+    "runtime",
+    "ghostboxx",
+    "hevc"
+  ],
+  "generated_files": [
+    "edge2.ps1",
+    "%systemdrive%\\Ghost Toolbox\\wget\\restart.cmd",
+    "YourPhone.ps1",
+    "%systemdrive%\\Ghost Toolbox\\list.txt",
+    "%temp%\\input.vbs",
+    "XGB.ps1",
+    "nul && del /q /s *cookies.txt",
+    "%temp%\\edge2.ps1",
+    "%temp%\\edge.ps1",
+    "bingchat_d.ini",
+    "bingchat_e.ini",
+    "yesno.vbs",
+    "wsa.cmd",
+    "edge.ps1",
+    "WID.ps1",
+    "%temp%\\test.vbs",
+    "ANDROID.ps1",
+    "storeremove.ps1"
+  ],
+  "hidden_main_menu": [
+    {
+      "trigger": "sound",
+      "action": "goto sound"
+    },
+    {
+      "trigger": "terminal",
+      "action": "goto term"
+    },
+    {
+      "trigger": "storetest",
+      "action": "goto storetest001"
+    },
+    {
+      "trigger": "timezone",
+      "action": "goto tymezone"
+    },
+    {
+      "trigger": "Timezone",
+      "action": "goto tymezone"
+    },
+    {
+      "trigger": "zunemusic2020",
+      "action": "goto zunemusic2020"
+    },
+    {
+      "trigger": "test123",
+      "action": "goto test123"
+    },
+    {
+      "trigger": "themesghostdark",
+      "action": "goto themesghostdark"
+    },
+    {
+      "trigger": "windowsinsider",
+      "action": "goto windowsinsider"
+    },
+    {
+      "trigger": "icons001",
+      "action": "goto icons001"
+    },
+    {
+      "trigger": "icons002",
+      "action": "goto icons002"
+    },
+    {
+      "trigger": "theme01",
+      "action": "goto theme01"
+    },
+    {
+      "trigger": "youtube",
+      "action": "goto YTENABLE ::YoutubeCONS"
+    },
+    {
+      "trigger": "youtube",
+      "action": "goto YTENABLE"
+    },
+    {
+      "trigger": "updatewindowstore",
+      "action": "goto updatewindowstore"
+    },
+    {
+      "trigger": "windows11",
+      "action": "goto windows11"
+    },
+    {
+      "trigger": "android",
+      "action": "goto ANDROID"
+    },
+    {
+      "trigger": "dd",
+      "action": "goto WCT01"
+    },
+    {
+      "trigger": "bb01",
+      "action": "goto BBX01"
+    },
+    {
+      "trigger": "bb02",
+      "action": "goto BBX02"
+    },
+    {
+      "trigger": "adminfilter",
+      "action": "goto XADMINXX1W10"
+    },
+    {
+      "trigger": "reinstallapps",
+      "action": "goto appsnewuser"
+    },
+    {
+      "trigger": "startallback",
+      "action": "goto startallbackupdate"
+    },
+    {
+      "trigger": "removedge",
+      "action": "goto rmovedge"
+    },
+    {
+      "trigger": "ghostmode",
+      "action": "goto GhostModeX1"
+    },
+    {
+      "trigger": "uwp",
+      "action": "goto UWPRE"
+    },
+    {
+      "trigger": "copilot",
+      "action": "goto copilotprev2"
+    },
+    {
+      "trigger": "spotlight",
+      "action": "goto Spotlight01"
+    },
+    {
+      "trigger": "winget",
+      "action": "goto wingetoption"
+    },
+    {
+      "trigger": "easycontextmenu",
+      "action": "goto easycontextmenu"
+    },
+    {
+      "trigger": "unpause",
+      "action": "goto unpause"
+    },
+    {
+      "trigger": "a",
+      "action": "goto ghostm0da"
+    }
+  ],
+  "prompt_vars_count": {
+    "vterminal": 2,
+    "firstindex": 158,
+    "op": 805,
+    "arch": 9,
+    "codeid": 6,
+    "ubrdec": 10,
+    "folderpath": 2,
+    "currentstate": 1,
+    "value": 30,
+    "version": 6,
+    "storearc": 2,
+    "youtube": 5,
+    "videocode": 3,
+    "audiocode": 2,
+    "usr": 1,
+    "passyesno": 4,
+    "adm": 4
+  }
+}
